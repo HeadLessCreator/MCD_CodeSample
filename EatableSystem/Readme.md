@@ -17,4 +17,4 @@ FirstRespond / SecondRespond 두 추상 메서드로 개별 피드백 로직을 
 ├── EatableCivilian.cs
 └── EatableCar.cs
 
-## 🔗 For more info, see my Notion Portfolio [here](https://https://charm-root-c91.notion.site/1ed101f05bcb80f8b5aecd1354e6016d)
+## 🔗 For more info, see my Notion Portfolio [here](https://charm-root-c91.notion.site/1ed101f05bcb80f8b5aecd1354e6016d)
